@@ -1,0 +1,12 @@
+1. Visual Studio
+Visual Studio is Microsoft's IDE. If you're building Silverlight apps or planning on working in a .NET shop, you may want to spend some time with Visual Studio. Visual Basic has some support for non-Microsoft languages such as Python and Ruby, but you'll have to install those services yourself.
+
+2. Eclipse
+Eclipse is the free and open-source editor upon which many development frameworks are based. It's one of the granddaddies in its field and comes highly recommended by many a professional developer. Eclipse began as a Java development environment and has greatly expanded through a system of lightweight plugins.
+
+3. NetBeans
+NetBeans is neck-and-neck with Eclipse as the most-recommended IDE in this category. It's free and open-source, supports tons of languages with more plugins coming all the time, and is incredibly simple to install and use, even for a beginner.
+
+4. Text editor based IDEs - Notepad++, Vim, Sublime Text, etc.
+
+source: http://mashable.com/2010/10/06/ide-guide/
